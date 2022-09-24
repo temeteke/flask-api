@@ -1,0 +1,5 @@
+flask
+flask-healthz
+flask_restx
+requests
+werkzeug<2.2
